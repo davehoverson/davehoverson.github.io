@@ -1,0 +1,14 @@
+body {
+	background-image: url(http://blog.crexendo.com/wp-content/uploads/2014/07/light-grey-background1.png);
+}
+.resume {
+	font-family: 'EB Garamond', serif;
+	width: 800px;
+	margin: 40px auto 60px;
+}
+H1 { text-align: center }
+.border { 
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
+.footer { text-align: center }
